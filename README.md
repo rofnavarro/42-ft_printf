@@ -5,4 +5,4 @@ Meu terceiro projeto de estudo de biblioteca feito em linguagem C.
 
 **Proposta**
 
-Escrever minha pr.
+Escrever minha própria printf().
